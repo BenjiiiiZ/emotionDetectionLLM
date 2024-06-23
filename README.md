@@ -1,5 +1,5 @@
 # emotionDetectionLLM
-This is a repository containing the code for the Research Project of CSE3000. The code calls Llama3 using Ollama using various prompting techniques.
+This is a repository containing the code for the Research Project CSE3000 of the bachelor Computer Science and Engineering at TU Delft. The code calls Llama3 using Ollama using various prompting techniques.
 
 # Getting started
 To use the code, Ollama needs to be installed. The model LLama3 has to be pulled.
